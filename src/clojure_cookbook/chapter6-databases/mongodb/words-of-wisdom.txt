@@ -1,0 +1,5 @@
+Clojure Cookbook - by Luke VanderHart and Ryan Neufeld
+
+****************************************************************************************************
+chapter 6 - Databases 
+6.8 monger - outdated -> moved to clojurewerkzs doc
